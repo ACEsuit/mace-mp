@@ -40,3 +40,7 @@ The MPtrj dataset used to train the model is available at [training-data](https:
       primaryClass={cond-mat.mtrl-sci}
 }
 ```
+
+## Trajectories and movies
+
+Trajectories for the results presented in the paper and simulation movies can be found at [example-xyz-movies](https://drive.google.com/drive/folders/1141d1rI1rtwf9iSFv5r_g4XL_AvmjiK5).
