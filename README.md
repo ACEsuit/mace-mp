@@ -7,6 +7,10 @@ To use the models please install the [MACE code](https://github.com/ACEsuit/mace
 
 The models are available in the [MACE-MP-0](https://github.com/ACEsuit/mace-mp/releases/tag/mace_mp_0).
 
+## Training scripts
+
+We provide training scripts for the models in the repository.
+
 ## References
 
 If you use the models please cite
