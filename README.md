@@ -1,7 +1,11 @@
 # MACE-MP models
-This repository contains the MACE-MP pre-trained foundation models for materials chemistry, parameterised for 89 chemical elements..
+This repository contains the MACE-MP pre-trained foundation models for materials chemistry, parameterised for 89 chemical elements.
 
 To use the models please install the [MACE code](https://github.com/ACEsuit/mace). 
+
+## Models
+
+The models are available in the [MACE-MP-0](https://github.com/ACEsuit/mace-mp/releases/tag/mace_mp_0).
 
 ## References
 
