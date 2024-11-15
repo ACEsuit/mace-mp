@@ -6,7 +6,13 @@ To use the models please install the [MACE code](https://github.com/ACEsuit/mace
 
 ## Models
 
-The models are available in the [MACE-MP-0](https://github.com/ACEsuit/mace-mp/releases/tag/mace_mp_0).
+The first generation of models are available in the [MACE-MP-0](https://github.com/ACEsuit/mace-mp/releases/tag/mace_mp_0).
+
+We subsequently released a second generation of models in the [MACE-MP-0b](https://github.com/ACEsuit/mace-mp/releases/tag/mace_mp_0b) and [MACE-MP-0b2](https://github.com/ACEsuit/mace-mp/releases/tag/mace_mp_0b2) releases.
+This release includes models with improved stability during MD simulations, using core repulsion, a new repulsion regularization for high pressure, and a few extra high pressure training examples. Moreover,
+we recommend using the second generation models for [fine-tuning](https://mace-docs.readthedocs.io/en/latest/guide/finetuning.html).
+
+We do not guarantee that the second generation models are better than the first generation models in all cases, but they are expected to be more stable during MD simulations.
 
 If you use the models please cite
 
